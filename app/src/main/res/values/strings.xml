@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cuisine Selector</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_order_dish">OrderDishActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- Custom Strings -->
+    <string name="main_activity_title">Cuisine Selector</string>
+    <string name="main_activity_description">Please select a cuisine to display a related dish.</string>
+    <string name="detail_activity_order_button">Order Dish</string>
+    <string name="order_dish_activity_quantity_text">Order Quantity:</string>
+<!--    <string name="order_dish_activity_quantity_input">1</string>-->
+    <string name="order_dish_activity_place_order_button">Place Order</string>
+</resources>
