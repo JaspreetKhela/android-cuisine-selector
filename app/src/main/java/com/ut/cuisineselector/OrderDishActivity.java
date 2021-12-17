@@ -85,7 +85,7 @@ public class OrderDishActivity extends AppCompatActivity {
         WebView happyDanceGif = (WebView) findViewById(R.id.webView) ;
 
         // Load a URL in the webView widget
-        happyDanceGif.loadUrl("https://c.tenor.com/uC_5im6W2xkAAAAC/homer-happy.gif");
+        happyDanceGif.loadUrl("https://c.tenor.com/FloH01RQwvAAAAAi/foodpanda-food.gif");
 
         // __________
         //
